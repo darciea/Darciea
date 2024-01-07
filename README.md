@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome to my Github! 👋
+
+## About Me
+
+I'm a Mechanical Engineering Student in my final Master's year at Imperial College. I'm looking to get into Machine Learning, specifically Social Robotics, so here is where I've built up my skills :)
+
+## My favourite quotes
+
+“Artificial intelligence is not a substitute for human intelligence; it is a tool to amplify human creativity and ingenuity.” 
+– Fei-Fei Li, Co-Director of the Stanford Institute for Human-Centered Artificial Intelligence and IT Professor at the Graduate School of Business
 
 <!--
 **darciea/Darciea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
