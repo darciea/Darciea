@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Mechanical Engineering Student in my final Master's year at Imperial College. I'm looking to get into Machine Learning, specifically Social Robotics, so here are some of the projects I've done :)
+I'm a Mechanical Engineering Student in my final Master's year at Imperial College. I'm looking to get into the field of AI and Robotics, specifically Social Robotics, so here are some of the projects I've done :)
 
 ## My favourite quotes
 
