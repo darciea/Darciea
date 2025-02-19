@@ -2,7 +2,7 @@
 
 ## About Me
 
-Recently graduated from Imperial College London in Mechanical Engineering. I'm looking to get into the field of AI and Robotics, specifically Social Robotics, so here are some of the projects I've done :)
+Recently graduated from Imperial College London in Mechanical Engineering. I'm looking to get into the field of AI, Machine Learning and Robotics, so here are some of the projects I've done :)
 
 ## My favourite quotes
 
